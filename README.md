@@ -19,7 +19,7 @@ Some description Some description Some description Some description Some descrip
 {% include youtubePlayer.html id="_ofswTSYs24"_ %}
 Some description Some description Some description Some description Some description Some description 
 
-## King of Glory, King of Peac
+## King of Glory, King of Peace
 {% include youtubePlayer.html id="ikj7CiC7v0U" %}
 Some description Some description Some description Some description Some description Some description 
 
