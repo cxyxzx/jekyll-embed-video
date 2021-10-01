@@ -40,12 +40,6 @@ ZX says: "This is one of the only songs I can sing at karaoke. But it's a good o
 
 Some description Some description Some description Some description Some description Some description 
 
-## Chopin Nocturne Op.9, No.2 in E flat
-
-{% include youtubePlayer.html id="Nu48Z45ibxQ" %}
-
-Some description Some description Some description Some description Some description Some description 
-
 ## Danket, danket dem Herrn
 
 {% include youtubePlayer.html id="VBpa0Iq622E" %}
