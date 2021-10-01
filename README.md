@@ -1,26 +1,24 @@
-## Video 1
+## 真的愛你
 
 {% include youtubePlayer.html id="nBcJlo8QVHc" %}
 
 Some description Some description Some description Some description Some description Some description 
 
-## Video 2
+## 康定情歌
 
 {% include youtubePlayer.html id="CKbIND-YsfQ" %}
 
 Some description Some description Some description Some description Some description Some description 
-
-## Chopin Nocturne Op.9, No. 2 in E flat
-
-{% include youtubePlayer.html id="Nu48Z45ibxQ" %}
-
-CX says: "This reminds me of how you used to play a CD for us when we were going to sleep."
 
 ## Ein Männlein steht im Walde
 
 {% include youtubePlayer.html id="s5bVQcpSrUE" %}
 
 CX says: "I remember we used to listen to German cassettes in the car even though we didn’t understand anything they were saying. Now sometimes when I go to pick Kaikai up I’m listening to German news and he has no idea what they’re saying."
+
+## 得民心者得天下
+
+
 
 ## King of Glory, King of Peace
 
@@ -38,10 +36,16 @@ ZX says: "This is one of the only songs I can sing at karaoke. But it's a good o
 
 {% include youtubePlayer.html id="2BHX8Qj-DQs" %}
 
-Some description Some description Some description Some description Some description Some description 
+This is not a song but Papa says that it's a very Scottish thing.
 
 ## Danket, danket dem Herrn
 
 {% include youtubePlayer.html id="VBpa0Iq622E" %}
 
-Some description Some description Some description Some description Some description Some description 
+This one is also from Papa.
+
+## Chopin Nocturne Op.9, No. 2 in E flat
+
+{% include youtubePlayer.html id="Nu48Z45ibxQ" %}
+
+CX says: "This reminds me of how you used to play a CD for us when we were going to sleep."
