@@ -15,10 +15,6 @@ Some description Some description Some description Some description Some descrip
 
 Some description Some description Some description Some description Some description Some description 
 
-## 得民心者得天下
-{% include youtubePlayer.html id="_ofswTSYs24"_ %}
-Some description Some description Some description Some description Some description Some description 
-
 ## King of Glory, King of Peace
 {% include youtubePlayer.html id="ikj7CiC7v0U" %}
 Some description Some description Some description Some description Some description Some description 
