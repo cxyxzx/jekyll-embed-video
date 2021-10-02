@@ -1,44 +1,58 @@
-## 真的愛你
+Happy birthday Mama!
 
-{% include youtubePlayer.html id="nBcJlo8QVHc" %}
+## Chopin Nocturne Op.9, No. 2 in E flat
 
-Happy birthday Mama! Some description Some description Some description Some description Some description Some description
+{% include youtubePlayer.html id="Nu48Z45ibxQ" %}
 
-## Ein Männlein steht im Walde
-
-{% include youtubePlayer.html id="s5bVQcpSrUE" %}
-
-CX says: "I remember we used to listen to German cassettes in the car even though we didn’t understand anything they were saying. Now sometimes when I go to pick Kaikai up I’m listening to German news and he has no idea what they’re saying."
-
-## 康定情歌
-
-{% include youtubePlayer.html id="O4apnJ-VQaE" %}
-
-Some description Some description Some description Some description Some description Some description 
+One of our earliest musical memories is you playing a CD of these for us when we were going to sleep.
 
 ## King of Glory, King of Peace
 
 {% include youtubePlayer.html id="ikj7CiC7v0U" %}
 
-CX says: "We wanted to find some hymns with nice tunes, which reminds me of all your thoughts on hymn tunes when we were wedding planning."
-
-## 得民心者得天下
-
-{% include youtubePlayer.html id="aaFe-YToVeM" %}
-
-Some description Some description Some description Some description Some description Some description
+We wanted to find some hymns with nice tunes, which reminds me of all your thoughts on hymn tunes when we were wedding planning.
 
 ## Rock of Ages, Cleft for Me
 
 {% include youtubePlayer.html id="zPFhwh6uGVw" %}
 
-Some description Some description Some description Some description Some description Some description
+Some of the hymns you taught us when we were little don't seem to be that common in modern churches, but we still remember and love them.
+
+## Ein Männlein steht im Walde
+
+{% include youtubePlayer.html id="s5bVQcpSrUE" %}
+
+We used to listen to German cassettes in the car even though we didn’t understand anything they were saying. Now sometimes when Dajie goes to pick Kaikai up she's listening to German news and he has no idea what they're saying.
+
+## 康定情歌
+
+{% include youtubePlayer.html id="O4apnJ-VQaE" %}
+
+This video combines two things that remind us of you a lot - TV talent shows, and traditional folk singing. You taught us songs like 讀書郎 but you never remembered more than a couple of phrases of this one, but it still stuck in my head.
+
+## 得民心者得天下
+
+{% include youtubePlayer.html id="aaFe-YToVeM" %}
+
+Remember the days of 一家老小追劇集... and 追 intense political historical drama, no less.
+
+## 倩女幽魂
+
+{% include youtubePlayer.html id="mksWjZmtooQ" %}
+
+Whenever someone died, you'd make sure to catch all the tribute shows on TV, and show us how great an artist they were, even though you never told us about them when they were alive. This is how we were introduced to 黃霑, 張國榮, and even...
+
+## Michael Jackson
+
+{% include youtubePlayer.html id="N9U9A4_cgyI" %}
+
+Yes, even Michael Jackson!
 
 ## 一生何求
 
 {% include youtubePlayer.html id="WquCJA9iYJM" %}
 
-ZX says: "This is one of the only songs I can sing at karaoke. But it's a good one!"
+This is one of the only songs Zixin can sing at karaoke. But it's a good one!
 
 ## Selkirk Grace
 
@@ -52,8 +66,14 @@ This is not a song but Papa says that it's a very Scottish thing.
 
 This one is also from Papa.
 
-## Chopin Nocturne Op.9, No. 2 in E flat
+## Christmas
 
-{% include youtubePlayer.html id="Nu48Z45ibxQ" %}
+{% include youtubePlayer.html id="QzI3MVMob28" %}
 
-CX says: "This reminds me of how you used to play a CD for us when we were going to sleep."
+Christmas was always full of music, from the Messiah to Carols from Kings. Even if we weren't at home for Christmas, listening to and singing the same music would help us feel closer to the family.
+
+## 真的愛你
+
+{% include youtubePlayer.html id="nBcJlo8QVHc" %}
+
+Thank you for all the wonderful memories, and for the love of music, tradition, language and so much more that you gave us. Happy birthday Mama!
