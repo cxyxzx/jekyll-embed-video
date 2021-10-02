@@ -76,6 +76,6 @@ Christmas was always full of music, from the Messiah to Carols from Kings. Even 
 
 {% include youtubePlayer.html id="nBcJlo8QVHc" %}
 
-Thank you for all the wonderful memories, and for the love of music, tradition, language and so much more that you gave us.  Happy birthday Mama!
+Thank you for all the wonderful memories, and for the love of music, tradition, language and so much more that you gave us. Can't wait to be able to travel again and make more memories together! Happy birthday Mama!
 
 P.S. [here's a youtube playlist](https://www.youtube.com/playlist?list=PLcBISwwIyfMdTV4tOE8ijwGL26LS8pHQc) of these songs plus a few others!
