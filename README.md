@@ -1,4 +1,4 @@
-Happy birthday Mama!
+Dear Mama, Happy birthday! It's been nearly two years since we were all together as a family. Some people say smell is the most powerful way of triggering memories but for our family, maybe sounds are more effective?
 
 ## Chopin Nocturne Op.9, No. 2 in E flat
 
@@ -76,4 +76,6 @@ Christmas was always full of music, from the Messiah to Carols from Kings. Even 
 
 {% include youtubePlayer.html id="nBcJlo8QVHc" %}
 
-Thank you for all the wonderful memories, and for the love of music, tradition, language and so much more that you gave us. Happy birthday Mama!
+Thank you for all the wonderful memories, and for the love of music, tradition, language and so much more that you gave us.  Happy birthday Mama!
+
+P.S. [here's a youtube playlist](https://www.youtube.com/playlist?list=PLcBISwwIyfMdTV4tOE8ijwGL26LS8pHQc) of these songs plus a few others!
