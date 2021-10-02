@@ -4,13 +4,13 @@ Dear Mama, Happy birthday! It's been nearly two years since we were all together
 
 {% include youtubePlayer.html id="Nu48Z45ibxQ" %}
 
-One of our earliest musical memories is you playing a CD of these for us when we were going to sleep.
+One of our earliest musical memories is you playing CDs for us when we were going to sleep.
 
 ## King of Glory, King of Peace
 
 {% include youtubePlayer.html id="ikj7CiC7v0U" %}
 
-We wanted to find some hymns with nice tunes, which reminds me of all your thoughts on hymn tunes when we were wedding planning.
+We wanted to find some hymns with nice tunes, which reminded Dajie of all your thoughts on hymn tunes when we were wedding planning.
 
 ## Rock of Ages, Cleft for Me
 
@@ -22,19 +22,26 @@ Some of the hymns you taught us when we were little don't seem to be that common
 
 {% include youtubePlayer.html id="s5bVQcpSrUE" %}
 
-We used to listen to German cassettes in the car even though we didn’t understand anything they were saying. Now sometimes when Dajie goes to pick Kaikai up she's listening to German news and he has no idea what they're saying.
+We used to listen to German cassettes in the car even though we didn’t understand anything they were saying. Now sometimes when Dajie goes to pick Kaikai up she's listening to German news and he has no idea what they're saying!
+
+## Danket, danket dem Herrn
+
+{% include youtubePlayer.html id="VBpa0Iq622E" %}
+
+Papa remembers this as one of the very earliest songs that you sang to Dajie and Erjie when they were little.
+
 
 ## 康定情歌
 
 {% include youtubePlayer.html id="O4apnJ-VQaE" %}
 
-This video combines two things that remind us of you a lot - TV talent shows, and traditional folk singing. You taught us songs like 讀書郎 but you never remembered more than a couple of phrases of this one, but it still stuck in my head.
+This video combines two things that remind us of you a lot - TV talent shows, and traditional folk singing. You taught us songs like 讀書郎 but you never remembered more than a couple of phrases of this one, but it still stuck in our heads.
 
 ## 得民心者得天下
 
 {% include youtubePlayer.html id="aaFe-YToVeM" %}
 
-Remember the days of 一家老小追劇集... and 追 intense political historical drama, no less.
+Remember the days of 一家老小追劇集... and 追 intense political historical drama, no less!
 
 ## 倩女幽魂
 
@@ -52,19 +59,15 @@ Yes, even Michael Jackson!
 
 {% include youtubePlayer.html id="WquCJA9iYJM" %}
 
-This is one of the only songs Zixin can sing at karaoke. But it's a good one!
+After Zixin learned this song from you, it became one of the only songs he could sing at karaoke. His friends love it.
 
 ## Selkirk Grace
 
 {% include youtubePlayer.html id="2BHX8Qj-DQs" %}
 
-This is not a song but Papa says that it's a very Scottish thing.
+This reminds Papa of your time in Aberdeen.
 
-## Danket, danket dem Herrn
-
-{% include youtubePlayer.html id="VBpa0Iq622E" %}
-
-This one is also from Papa.
+[Sunset in Aberdeen   31 Jan 2014](https://user-images.githubusercontent.com/91727720/135701575-2c907f54-5893-4d07-86d4-2a3019312565.jpg)
 
 ## Christmas
 
