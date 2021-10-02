@@ -30,7 +30,6 @@ We used to listen to German cassettes in the car even though we didn’t underst
 
 Papa remembers this as one of the very earliest songs that you sang to Dajie and Erjie when they were little.
 
-
 ## 康定情歌
 
 {% include youtubePlayer.html id="O4apnJ-VQaE" %}
@@ -66,8 +65,6 @@ After Zixin learned this song from you, it became one of the only songs he could
 {% include youtubePlayer.html id="2BHX8Qj-DQs" %}
 
 This reminds Papa of your time in Aberdeen.
-
-[Sunset in Aberdeen   31 Jan 2014](https://user-images.githubusercontent.com/91727720/135701575-2c907f54-5893-4d07-86d4-2a3019312565.jpg)
 
 ## Christmas
 
