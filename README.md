@@ -66,6 +66,8 @@ After Zixin learned this song from you, it became one of the only songs he could
 
 This reminds Papa of your time in Aberdeen.
 
+![St Machar's Cathedral](https://user-images.githubusercontent.com/91727720/135708672-a64c12ba-1fd0-4e77-a83d-f1606c390142.jpg)
+
 ![Sunset in Aberdeen](https://user-images.githubusercontent.com/91727720/135706622-f09a1d99-1431-4cf2-aef8-e7f83814499c.jpg)
 
 ## Christmas
